@@ -26,8 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrutsureja&show_icons=true&locale=en" alt="shrutsureja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutsureja&" alt="shrutsureja" /></p>
-
 <!--- 
 - 👋 Hi, I’m @shrutsureja
 - 👀 I’m interested in Competitive Coding
